@@ -1,0 +1,13 @@
+	sudo apt-get -y install libboost-date-time1.54-dev libboost-system1.54.0 libxml2-dev
+	sudo apt-get -y install libboost-system1.54-dev libboost-thread1.54-dev libhwloc-dev libcheese-gtk23 libcheese7		
+	sudo apt-get -y install build-essential cmake flex bison zlib1g-dev qt4-dev-tools libqt4-dev libqtwebkit-dev gnuplot \
+	libreadline-dev libncurses-dev libxt-dev libopenmpi-dev openmpi-bin libboost-system-dev libboost-thread-dev libgmp-dev \ 
+	libmpfr-dev 
+	sudo apt-get -y install git flex bison rpm g++ zlib1g-dev binutils-dev openmpi-bin libopenmpi-dev libxext-dev libxt-dev \
+	libxrender-dev libstdc++5 libgl1-mesa-dev libglu1-mesa-dev		
+	sudo apt-get -y install libmpich-dev
+	sudo apt-get -y install lam4-dev
+	sudo apt-get -y install libglu1-mesa-dev libqt4-opengl-dev
+	sudo apt-get -y install paraview
+	sudo apt-get -y update
+	sudo apt-get -y upgrade
